@@ -1,7 +1,7 @@
 # OCR
 Optical character recognition
 
-# Uses google vision api to determine optical characters
+# Uses google vision api to determine characters
 
 Determines what is the text in the image and displays it.
 
